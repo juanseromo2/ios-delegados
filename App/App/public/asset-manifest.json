@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.5538081a.js",
+    "static/js/219.3f8a2799.chunk.js": "/static/js/219.3f8a2799.chunk.js",
+    "static/media/registraduria-nacional.svg": "/static/media/registraduria-nacional.409e0e1a6ab22a6bc1b23e1bf8180f03.svg",
+    "static/media/reporte_votantes1.svg": "/static/media/reporte_votantes1.5f46d3492c569a1c8181ad4c317bd294.svg",
+    "static/media/credenciales-delegados.svg": "/static/media/credenciales-delegados.6bbf49993dbe46de2229327dd64dbae9.svg",
+    "static/media/tips.svg": "/static/media/tips.ad1aeddf2dfa8fbd58409aa150f62009.svg",
+    "static/media/cierre_del_puesto1.svg": "/static/media/cierre_del_puesto1.b3d38aaffd3e62c3ecffb46d9288d406.svg",
+    "static/media/informes-del-puesto.svg": "/static/media/informes-del-puesto.76ebd468014e1c913317a81dcd2336b2.svg",
+    "static/media/logos_web_sigloXXI_negro.svg": "/static/media/logos_web_sigloXXI_negro.576321a2a600570c570973a36befaa3c.svg",
+    "static/media/verificar-qr.svg": "/static/media/verificar-qr.a8c6bb8e3a38b69022ac91e67af4b8ea.svg",
+    "static/media/apertura_puesto.svg": "/static/media/apertura_puesto.79315af4f2194bd412fb41530a0a35f8.svg",
+    "static/media/alertas.svg": "/static/media/alertas.c1f47c7129533e3db2d9eaddb60c0014.svg",
+    "static/media/novedades.svg": "/static/media/novedades.bbbb4164252486751a300b62537ba0fe.svg",
+    "static/media/inservibleRedIcon.svg": "/static/media/inservibleRedIcon.960f3feffcd26de2cd09dfb031e8c7fa.svg",
+    "static/media/inservibleRedIconBig.svg": "/static/media/inservibleRedIconBig.c803a770e89209b9fcdb4f6f7437418f.svg",
+    "static/media/faltantesGreyIconBig.svg": "/static/media/faltantesGreyIconBig.e2ce838118241472f5d19ca1421c6985.svg",
+    "static/media/faltantesGreyIcon.svg": "/static/media/faltantesGreyIcon.419b1149c8d4312c1a741444ecdd89c5.svg",
+    "static/media/dangerYellowIconBig.svg": "/static/media/dangerYellowIconBig.43b2ea1b97bccd928426c619668f21a4.svg",
+    "static/media/dangerYellowIcon.svg": "/static/media/dangerYellowIcon.96b177d7889172f0066b060835454c9f.svg",
+    "static/media/checkGreenIconBig.svg": "/static/media/checkGreenIconBig.fd81254af250b6abd5750bc0321bbfe8.svg",
+    "static/media/checkGreenIcon.svg": "/static/media/checkGreenIcon.e93fd245094f3d32284a4e2f80ced80a.svg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.5538081a.js.map": "/static/js/main.5538081a.js.map",
+    "219.3f8a2799.chunk.js.map": "/static/js/219.3f8a2799.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5538081a.js"
+  ]
+}
