@@ -1,0 +1,6 @@
+{
+	"appId": "com.appsdelegados.ios",
+	"appName": "Gestión y Control de Puestos",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
